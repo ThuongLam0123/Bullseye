@@ -1,4 +1,4 @@
-var tableInt = parseInt(prompt("Enter a Value", "0"), 10);
+var table = parseInt(prompt("Enter a Value", "0"), 10);
 var operator = 'addition'; // Type of calculation
 var i = 1;                 // Set counter to 1
 var msg = '<h2>Multiplication Table</h2>';            // Message
